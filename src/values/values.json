@@ -1,0 +1,6 @@
+{
+    "TOKEN_COOKIE_KEY": "bucketlisttoken",
+    "VALUE_COOKIE_HTTPS_ONLY": false,
+    "VALUE_COOKIE_MAX_AGE": 1210000,
+    "URL":"http://localhost:8004"
+}
